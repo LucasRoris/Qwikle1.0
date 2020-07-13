@@ -1,0 +1,2 @@
+int MovimentoValido(peca **Tabuleiro,peca PecaJogada,int x,int y,int Jogada,int *tam,int possibilidades[4]);
+int AuxMovimentoValido(int flag,peca **Tabuleiro,peca PecaJogada,int x,int auxX,int y,int auxY,int possibilidades[4]);
